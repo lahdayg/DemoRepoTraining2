@@ -6682,11 +6682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\DemoLearnwithpride\\DemoLearnwithpride\\DemoLearnwithpride.csproj",
+      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\DemoRepoTraining2\\DemoLearnwithpride\\DemoLearnwithpride\\DemoLearnwithpride.csproj",
       "projectName": "DemoLearnwithpride",
-      "projectPath": "C:\\Users\\Grandma\\source\\repos\\DemoLearnwithpride\\DemoLearnwithpride\\DemoLearnwithpride.csproj",
+      "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\DemoRepoTraining2\\DemoLearnwithpride\\DemoLearnwithpride\\DemoLearnwithpride.csproj",
       "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grandma\\source\\repos\\DemoLearnwithpride\\DemoLearnwithpride\\obj\\",
+      "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\DemoRepoTraining2\\DemoLearnwithpride\\DemoLearnwithpride\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
